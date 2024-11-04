@@ -1,11 +1,11 @@
 # Applied-Data-Science-with-Python
 
 Five course series
-- Introduction to Data Science in Python
-- Applied Plotting, Charting & Data Representation in Python
-- Applied Machine Learning in Python
-- Applied Text Mining in Python
-- Applied Social Network Analysis in Python
+- Course_1: Introduction to Data Science in Python
+- Course_2: Applied Plotting, Charting & Data Representation in Python
+- Course_3: Applied Machine Learning in Python
+- Course_4: Applied Text Mining in Python
+- Course_5: Applied Social Network Analysis in Python
 
 ## What I've learned
 - Conduct an inferential statistical analysis
